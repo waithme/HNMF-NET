@@ -8,7 +8,7 @@ region-level representations through residual gated fusion.
 ## Model Overview
 
 <p align="center">
-  <img src="figures/model_overview.png" width="950">
+  <img src="figures/hinet.png" width="950">
 </p>
 
 <p align="center">
