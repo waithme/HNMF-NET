@@ -32,4 +32,4 @@ All data in dataset directory, which already are refined.
 ```bash
 python main.py
 ```
-Could train and test on all datasets. Model will generate region cache first and than move into model training process.
+Could train and test on all datasets. 
