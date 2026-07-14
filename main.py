@@ -11,7 +11,7 @@ import torch
 from sklearn.metrics import roc_auc_score, mean_squared_error, mean_absolute_error
 
 from data_loader import get_dataloaders
-from hier_node_motif_gnnv3 import HierNodeMotifGNN
+from hier_node_motif_gnnv import HierNodeMotifGNN
 from losses import (
     compute_hier_multitask_classification_loss,
     compute_hier_regression_loss,
