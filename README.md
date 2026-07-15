@@ -32,4 +32,6 @@ All data in dataset directory, which already are refined.
 ```bash
 python main.py
 ```
-Could train and test on all datasets. Because the size of region cache files exceed the github limit, So I uploaded all cache files in google driver: https://drive.google.com/drive/folders/1uzg3cEXMxzokM40xTG5v51wUFl8WZBtP?usp=sharing
+Could train and test on all datasets. Because the size of region cache files exceed the github limit, So I just upload ESOL region cache as an example file.
+On top of that I also uploaded all cache files in google driver: https://drive.google.com/drive/folders/1uzg3cEXMxzokM40xTG5v51wUFl8WZBtP?usp=sharing
+please feel free to download them and test the model.
